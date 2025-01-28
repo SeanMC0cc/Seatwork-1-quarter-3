@@ -1,0 +1,26 @@
+body{
+    background-image: url(BGcol.png);
+}
+.card{
+    margin-top: 5em;
+    margin-left: 25em;
+    margin-right: 25em;
+    text-align: center;
+    background-image: url(Cardcol.png);
+}
+.button{
+    margin-top: 5em;
+    margin-left: 25em;
+    margin-right: 25em;
+    text-align: center;
+    background-image: url(Cardcol.png);
+}
+h1{
+    color: blue;
+    font-family: "DM Serif Display", serif;
+    font-weight: 400;
+    font-style: italic;
+}
+img{
+    align-items: center;
+}
